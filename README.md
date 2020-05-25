@@ -9,4 +9,6 @@
 
 ### Slides
 
-18 February 2020 - [PAC learning]() 
+18 February 2020 - [PAC learning](https://docs.google.com/presentation/d/1SXoxbVXif_L4scfGMFHeBYsIUiYiwNZGpZlyqXpxhOQ/edit?usp=sharing)  
+
+28 April 2020 - [Agnostic PAC learning](https://docs.google.com/presentation/d/1hEy_YFu74ZqkoH2Ta-UxMm-aMds4xF_J3hR5OLBMrpI/edit?usp=sharing)
